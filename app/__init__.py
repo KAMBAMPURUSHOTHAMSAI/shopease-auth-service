@@ -1,0 +1,1 @@
+"""ShopEase Authentication Microservice package."""
